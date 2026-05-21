@@ -1,12 +1,14 @@
 #include <iostream>
+#include <map>
 using namespace std;
 
 //my Main 0.o
 int main() {
     //yourmom!!!
     cout<<"hello"<<endl;
-    for(i=0;i<10;i++){
+    for(int i=0;i<10;i++){
         cout<< i <<endl;
+    //Hallllooooooo
     }
 
     map<string,string> m;
