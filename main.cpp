@@ -12,5 +12,6 @@ int main() {
     map<string,string> m;
     //never gonna give you up
     //never gonna let you down
+    int play = 100;
     return 0;
 }
