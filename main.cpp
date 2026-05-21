@@ -1,6 +1,7 @@
 #include <iostream>
-
 using namespace std;
+
+//my Main 0.o
 int main() {
     //yourmom!!!
     cout<<"hello"<<endl;
