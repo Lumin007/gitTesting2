@@ -7,7 +7,6 @@ int main() {
     for(i=0;i<10;i++){
         cout<< i <<endl;
     }
-    //never gonna give you up
-    //never gonna let you down
+    //bugfix
     return 0;
 }
